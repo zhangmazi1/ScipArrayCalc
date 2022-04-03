@@ -1,0 +1,2 @@
+# ScipArrayCalc
+基于pyscipopt原生api的矩阵式高效计算框架
